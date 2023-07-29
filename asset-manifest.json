@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PeerXP/static/css/main.7eebc124.css",
+    "main.js": "/PeerXP/static/js/main.177d92c1.js",
+    "index.html": "/PeerXP/index.html",
+    "main.7eebc124.css.map": "/PeerXP/static/css/main.7eebc124.css.map",
+    "main.177d92c1.js.map": "/PeerXP/static/js/main.177d92c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eebc124.css",
+    "static/js/main.177d92c1.js"
+  ]
+}
