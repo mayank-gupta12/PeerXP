@@ -41,10 +41,9 @@ const ExpenseList = () => {
 					<ExpenseItem  category={expense.category}  />
 					))}
 			</td>
-			<td className='w-50 border border-dark px-2'>
+			<td className='w-25 border border-dark px-2'>
 			{filteredExpenses.map((expense) => (
 					<ExpenseItem  id={expense.id} amount= {expense.amount}  />
-
 					))}
 			</td>
         </tr>
