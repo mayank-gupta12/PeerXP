@@ -54,8 +54,6 @@ const ExpenseList = () => {
 };
 
 export default ExpenseList;
-			// <ul class='list-group mt-3 mb-3'>
 			// 	{filteredExpenses.map((expense) => (
 			// 		<ExpenseItem id={expense.id} name={expense.name} amount= {expense.amount}  />
 			// 		))}
-			// </ul>
